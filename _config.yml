@@ -7,7 +7,7 @@ theme: jekyll-theme-cayman
 	
    <body>
       <p>Simple Image Insert</p>
-      <img src = "/html/images/test.png" alt = "Test Image" />
+      <img src = "test.png" alt = "Test Image" />
    </body>
 	
 </html>
