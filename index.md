@@ -9,15 +9,4 @@ Online Porfolio
 
 
 <!DOCTYPE html>
-<html>
-
-   <head>
-      <title>Using Image in Webpage</title>
-   </head>
-	
-   <body>
-      <p>Simple Image Insert</p>
-      <img src = "test.png" alt = "Test Image" />
-   </body>
-	
-</html>
+![test](https://user-images.githubusercontent.com/34174086/33780142-152f0b1a-dc26-11e7-96bf-279c8995bd72.jpg)
