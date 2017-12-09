@@ -25,3 +25,4 @@ title: Porfolio
 ## [About me](README.md)
 
 _________________________________________________________________
+For further information about the course, please contact me
