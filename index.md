@@ -13,14 +13,14 @@ title: Porfolio
 <div>
 The ABM is a model that:
 <ol>
- <li>1. Builds agents in a space;</li>
- <li>2. Gets them to interact with each other;</li>
- <li>3. Reads in environmental data;</li>
- <li>4. Gets agents to interact with the environment;</li>
- <li>5. Randomizes the order of agent actions;</li>
- <li>6. Displays the model as an animation;</li>
- <li>7. Is contained within a GUI;</li>
- <li>8. Is initialised with data from the web.</li>
+ <li>Builds agents in a space;</li>
+ <li>Gets them to interact with each other;</li>
+ <li>Reads in environmental data;</li>
+ <li>Gets agents to interact with the environment;</li>
+ <li>Randomizes the order of agent actions;</li>
+ <li>Displays the model as an animation;</li>
+ <li>Is contained within a GUI;</li>
+ <li>Is initialised with data from the web.</li>
 </ol>
   
 
