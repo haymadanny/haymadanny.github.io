@@ -5,7 +5,7 @@ title: Porfolio
 ## [*Download Agent Base Model Codes*](https://github.com/haymadanny/)          
 
 **Agent Base Model (ABM)**
-
+![abm](https://user-images.githubusercontent.com/34174086/33807384-837eb656-ddac-11e7-95cd-ba10360f60a7.jpg)
 The ABM is part of a portfolio in the Programming in Python module. This course is designed to teach the basics of computer programming, centering on the Python programming language. The example used is taken from spatial analysis and modelling, and is aimed to teach persons who are interested in scientific programming that analyses real-world systems: social scientists, ecologists, economists, etc.
 
 The ABM is a model that:
