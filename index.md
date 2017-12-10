@@ -8,8 +8,8 @@ title: Porfolio
 <br>
 
 <div class="pull-right">
-<img src="ABM.jpg" style=float: left; margin: 0px 10px 10px 0px; />
- The ABM is part of a portfolio in the Programming in Python module. This course is designed to teach the basics of computer programming, centering on the Python programming language. The example used is taken from spatial analysis and modelling, and is aimed to teach persons who are interested in scientific programming that analyses real-world systems: social scientists, ecologists, economists, etc.
+<img src="ABM.jpg" style="float: left; margin: 0px 10px 10px 0px;" />
+ The ABM is part of a portfolio in the Programming in Python module. This course is designed to teach the basics of computer programming, centering on the Python programming language. The example used is taken from spatial analysis and modelling, and is aimed to teach persons who are interested in scientific programming that analyses real-world systems: social scientists, ecologists, economists, etc.</div><div>
 
 The ABM is a model that:
   1. Builds agents in a space;
