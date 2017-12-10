@@ -36,7 +36,7 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 
 
 
-![girl](https://user-images.githubusercontent.com/34174086/33789064-73f7b82e-dc4c-11e7-81e4-4256f2704501.jpg)
+![girl](https://user-images.githubusercontent.com/34174086/33807459-b575fb0a-ddad-11e7-86f0-77ce73f4012c.jpg)
 ## [About me](README.md)
 
 
