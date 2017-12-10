@@ -31,10 +31,6 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 
 
 
-
-
-
-
 ![abm](https://user-images.githubusercontent.com/34174086/33807421-3efd9906-ddad-11e7-9440-2649090603e6.jpg)
 
 
@@ -44,3 +40,6 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 
 
 ________________________________________________________________________________________________
+For further information:
+###[Geograph Programming Courses](http://www.geog.leeds.ac.uk/courses/computing/study/core-python/)
+###[Google](https://www.google.co.uk/)
