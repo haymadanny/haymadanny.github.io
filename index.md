@@ -34,9 +34,9 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 **About author...**
 <div>
 <img src="Girl.jpg" style="float:left" />
-     <b>Name</b>: Haymawattie Danny
-     <b>Nationality</b>: Guyanese
-     <b>Email</b>: haymadanny@yahoo.com
+     <b>Name</b>: Haymawattie Danny <br>
+     <b>Nationality</b>: Guyanese <br>
+     <b>Email</b>: haymadanny@yahoo.com <br>
      <a href="README.md">More Details...</a>                           
 </div>
 ________________________________________________________________________________________________
