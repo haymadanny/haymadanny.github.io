@@ -28,7 +28,7 @@ It is expected that this model will provide the basics in Python programming lan
 
 This program was designed, written and taught by [*Dr. Andrew Evans*](http://www.geog.leeds.ac.uk/people/a.evans/), University of Leeds. 
 </div>
-[![abm"click on me"](https://user-images.githubusercontent.com/34174086/33807421-3efd9906-ddad-11e7-9440-2649090603e6.jpg)](https://www.google.co.uk/)
+
 
 
 
