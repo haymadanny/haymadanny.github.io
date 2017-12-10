@@ -9,9 +9,9 @@ title: Porfolio
 The ABM is part of a portfolio in the Programming in Python module. This course is designed to teach the basics of computer programming, centering on the Python programming language. The example used is taken from spatial analysis and modelling, and is aimed to teach persons who are interested in scientific programming that analyses real-world systems: social scientists, ecologists, economists, etc.
 
 The ABM is a model that:
-•	builds agents in a space;
-•	gets them to interact with each other;
-•	reads in environmental data;
+1.	builds agents in a space;
+2.	gets them to interact with each other;
+* reads in environmental data;
 •	gets agents to interact with the environment;
 •	randomizes the order of agent actions;
 •	displays the model as an animation;
