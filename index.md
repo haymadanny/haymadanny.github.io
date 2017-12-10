@@ -7,13 +7,12 @@ title: Porfolio
 **Agent Base Model (ABM)**
 <br>
 
-<div class="pull-right">
-The ABM is part of a portfolio in the Programming in Python module. This course is designed to teach the basics of computer programming, centering on the Python programming language. The example used is taken from spatial analysis and modelling, and is aimed to teach persons who are interested in scientific programming that analyses real-world systems: social scientists, ecologists, economists, etc.</div>
-<div>
- <div></div>
+<div class="pull-right" style="text-align: justify">
+The ABM is part of a portfolio in the Programming in Python module. This course is designed to teach the basics of computer programming, centering on the Python programming language. The example used is taken from spatial analysis and modelling, and is aimed to teach persons who are interested in scientific programming that analyses real-world systems: social scientists, ecologists, economists, etc.</div><p></p>
+<div> 
  <img src="ABM.jpg" style="float: right; height: 220px" />
 The ABM is a model that:
-<ol style="margin-left: 20px;">
+<ol style="margin-left: 20px; margin-top: -10px">
  <li>Builds agents in a space;</li>
  <li>Gets them to interact with each other;</li>
  <li>Reads in environmental data;</li>
