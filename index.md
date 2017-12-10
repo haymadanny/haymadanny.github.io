@@ -39,5 +39,5 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 ________________________________________________________________________________________________
 For further information:
 <div style="float:left"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-pytho">Geograph Programming Courses</a></div>
-<div style="float:none"><a href="http://www.google.co.uk"><img src="google.jpg" /></a></div>
+<div style="float:none"><a href="http://www.google.co.uk"><img src="google.jpg" width="82" height="86"></a></div>
 <div style="float:right"><a href="http://youtube.com"><img src="youtube.png" /></a></div>
