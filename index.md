@@ -33,7 +33,7 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 <br>
 **About author...**
 <div>
-<img src="Girl.jpg" style="float:left;>
+<img src="Girl.jpg" style="float:left" />
      <b>Name</b>: Haymawattie Danny
      <b>Nationality</b>: Guyanese
      <b>Email</b>: haymadanny@yahoo.com
