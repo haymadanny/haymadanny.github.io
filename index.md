@@ -32,15 +32,13 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 
 <br>
 **About author...**
-
-<div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="Girl.jpg"></a></div>
-
-Name: Haymawattie Danny
-Nationality: Guyanese
-Email: haymadanny@yahoo.com
-[more details...](README.md)
-
-<br>
+<div>
+<img src="Girl.jpg" style="float:left;>
+     <b>Name</b>: Haymawattie Danny
+     <b>Nationality</b>: Guyanese
+     <b>Email</b>: haymadanny@yahoo.com
+     <a href="README.md">More Details...</a>                           
+</div>
 ________________________________________________________________________________________________
 For further information:
 <br>
