@@ -38,6 +38,6 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 
 ________________________________________________________________________________________________
 For further information:
-<div style="float:left; width: 33%" ><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/">Geograph Programming Courses</a></div>
-<div style="float:left; width: 33%"><a href="http://www.google.co.uk"><img src="google.jpg"></a></div>
+<div style="float:left; width: 33%; margin-right: 10px"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="google.jpg"></a></div>
+<div style="float:left; width: 33%; margin-right: 10px"><a href="http://www.google.co.uk"><img src="google.jpg"></a></div>
 <div style="float:left; width:33%"><a href="http://youtube.com"><img src="youtube.png" /></a></div>
