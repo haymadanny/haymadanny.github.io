@@ -20,7 +20,7 @@ The ABM is a model that:
 
 It is expected that this model will provide the basics in Python programming language and will be useful for the creation of many models of social, environmental or ecological systems. 
 
-This program was designed, written and taught by [*Dr. Andrew Evans*] (http://www.geog.leeds.ac.uk/people/a.evans/), University of Leeds.
+This program was designed, written and taught by [*Dr. Andrew Evans*](http://www.geog.leeds.ac.uk/people/a.evans/), University of Leeds.
 
 
 
