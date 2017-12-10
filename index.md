@@ -37,6 +37,7 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 
 Name: Haymawattie Danny
 Nationality: Guyanese
+Email: haymadanny@yahoo.com
 [more details...](README.md)
 
 <br>
