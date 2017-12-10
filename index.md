@@ -43,6 +43,4 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 ## [About me](README.md)
 
 
-<html>
-  <p><div class="pull right"><img scr="https://user-images.githubusercontent.com/34174086/33789064-73f7b82e-dc4c-11e7-81e4-4256f2704501.jpg"/></div></p>
-</html>
+________________________________________________________________________________________________
