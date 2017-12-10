@@ -44,6 +44,6 @@ Email: haymadanny@yahoo.com
 ________________________________________________________________________________________________
 For further information:
 <br>
-<div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="py.jng"></a></div>
+<div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="py.png"></a></div>
 <div style="float:left; width: 33%"><a href="http://www.google.co.uk"><img src="google.jpg"></a></div>
 <div style="float:left; width:33%"><a href="http://youtube.com"><img src="youtube.png" /></a></div>
