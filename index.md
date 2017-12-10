@@ -44,4 +44,4 @@ For further information:
 <br>
 [**Geograph Programming Courses**](http://www.geog.leeds.ac.uk/courses/computing/study/core-python/)
 <br>
-[![google](https://user-images.githubusercontent.com/34174086/33808373-88ffa568-ddbb-11e7-8240-2a4beff01519.jpg)](https://www.google.co.uk/)
+[![google](https://user-images.githubusercontent.com/34174086/33808386-c8c2a1c8-ddbb-11e7-8817-cbc70089be33.jpg)](https://www.google.co.uk/)
