@@ -33,7 +33,7 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 <br>
 **About author...**
 
-<div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="girl.jpg"></a></div>
+<div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="Girl.jpg"></a></div>
 
 Name: Haymawattie Danny
 Nationality: Guyanese
