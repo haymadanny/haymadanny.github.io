@@ -7,31 +7,28 @@ title: Porfolio
 **Agent Base Model (ABM)**
 <br>
 
-<div class="pull-right">
-https://user-images.githubusercontent.com/34174086/33807421-3efd9906-ddad-11e7-9440-2649090603e6.jpg
-</div>
-
-The ABM is part of a portfolio in the Programming in Python module. This course is designed to teach the basics of computer programming, centering on the Python programming language. The example used is taken from spatial analysis and modelling, and is aimed to teach persons who are interested in scientific programming that analyses real-world systems: social scientists, ecologists, economists, etc.
-
+<div class="pull-right" style="text-align: justify">
+The ABM is part of a portfolio in the Programming in Python module. This course is designed to teach the basics of computer programming, centering on the Python programming language. The example used is taken from spatial analysis and modelling, and is aimed to teach persons who are interested in scientific programming that analyses real-world systems: social scientists, ecologists, economists, etc.</div>
+<div style="margin-top: 10px; text-align: justify"> 
+ <img src="ABM.jpg" style="float: right; height: 220px" />
 The ABM is a model that:
-  1. Builds agents in a space;
-  2. Gets them to interact with each other;
-  3. Reads in environmental data;
-  4. Gets agents to interact with the environment;
-  5. Randomizes the order of agent actions;
-  6. Displays the model as an animation;
-  7. Is contained within a GUI;
-  8. Is initialised with data from the web.
+<ol style="margin-left: 20px; margin-top: 0px">
+ <li>Builds agents in a space;</li>
+ <li>Gets them to interact with each other;</li>
+ <li>Reads in environmental data;</li>
+ <li>Gets agents to interact with the environment;</li>
+ <li>Randomizes the order of agent actions;</li>
+ <li>Displays the model as an animation;</li>
+ <li>Is contained within a GUI;</li>
+ <li>Is initialised with data from the web.</li>
+</ol>
+  
 
 It is expected that this model will provide the basics in Python programming language and will be useful for the creation of many models of social, environmental or ecological systems. 
 
-This program was designed, written and taught by [*Dr. Andrew Evans*](http://www.geog.leeds.ac.uk/people/a.evans/), University of Leeds.
+This program was designed, written and taught by [*Dr. Andrew Evans*](http://www.geog.leeds.ac.uk/people/a.evans/), University of Leeds. 
+</div>
 
-
-
-
-
-![abm](https://user-images.githubusercontent.com/34174086/33807421-3efd9906-ddad-11e7-9440-2649090603e6.jpg)
 
 
 
@@ -41,7 +38,6 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 
 ________________________________________________________________________________________________
 For further information:
-<br>
-[**Geograph Programming Courses**](http://www.geog.leeds.ac.uk/courses/computing/study/core-python/)
-<br>
-[**Google**](https://www.google.co.uk/)
+<div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="google.jpg"></a></div>
+<div style="float:left; width: 33%"><a href="http://www.google.co.uk"><img src="google.jpg"></a></div>
+<div style="float:left; width:33%"><a href="http://youtube.com"><img src="youtube.png" /></a></div>
