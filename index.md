@@ -39,7 +39,7 @@ Name: Haymawattie Danny
 Nationality: Guyanese
 [more details...](README.md)
 
-
+<br>
 ________________________________________________________________________________________________
 For further information:
 <div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="py.jng"></a></div>
