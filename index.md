@@ -30,14 +30,20 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 </div>
 
 
+<br>
+**About author...**
 
+<div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="Girl.jpg"></a></div>
 
-![girl](https://user-images.githubusercontent.com/34174086/33807459-b575fb0a-ddad-11e7-86f0-77ce73f4012c.jpg)
-[About me](README.md)
+Name: Haymawattie Danny
+Nationality: Guyanese
+Email: haymadanny@yahoo.com
+[more details...](README.md)
 
-
+<br>
 ________________________________________________________________________________________________
 For further information:
-<div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="google.jpg"></a></div>
+<br>
+<div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="py.jng"></a></div>
 <div style="float:left; width: 33%"><a href="http://www.google.co.uk"><img src="google.jpg"></a></div>
 <div style="float:left; width:33%"><a href="http://youtube.com"><img src="youtube.png" /></a></div>
