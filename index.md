@@ -5,8 +5,11 @@ title: Porfolio
 ## [*Download Agent Base Model Codes*](https://github.com/haymadanny/)          
 
 **Agent Base Model (ABM)**
+<br>
 
-![abm](https://user-images.githubusercontent.com/34174086/33807421-3efd9906-ddad-11e7-9440-2649090603e6.jpg)
+<div class="pull-right">
+https://user-images.githubusercontent.com/34174086/33807421-3efd9906-ddad-11e7-9440-2649090603e6.jpg
+</div>
 
 The ABM is part of a portfolio in the Programming in Python module. This course is designed to teach the basics of computer programming, centering on the Python programming language. The example used is taken from spatial analysis and modelling, and is aimed to teach persons who are interested in scientific programming that analyses real-world systems: social scientists, ecologists, economists, etc.
 
@@ -28,18 +31,17 @@ This program was designed, written and taught by [*Dr. Andrew Evans*](http://www
 
 
 
-
-
-
-
-
+![abm](https://user-images.githubusercontent.com/34174086/33807421-3efd9906-ddad-11e7-9440-2649090603e6.jpg)
 
 
 
 ![girl](https://user-images.githubusercontent.com/34174086/33807459-b575fb0a-ddad-11e7-86f0-77ce73f4012c.jpg)
-## [About me](README.md)
+[About me](README.md)
 
 
-<html>
-  <p><div class="pull right"><img scr="https://user-images.githubusercontent.com/34174086/33789064-73f7b82e-dc4c-11e7-81e4-4256f2704501.jpg"/></div></p>
-</html>
+________________________________________________________________________________________________
+For further information:
+<br>
+[**Geograph Programming Courses**](http://www.geog.leeds.ac.uk/courses/computing/study/core-python/)
+<br>
+[**Google**](https://www.google.co.uk/)
