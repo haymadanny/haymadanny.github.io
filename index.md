@@ -39,7 +39,7 @@ This program was designed, written and taught by <a href="http://www.geog.leeds.
      <b>Name</b>: Haymawattie Danny <br>
      <b>Nationality</b>: Guyanese <br>
      <b>Email</b>: haymadanny@yahoo.com <br>
-     <a href="https://haymadanny.github.io/aboutme">More Details...</a>                           
+     <a href="https://haymadanny.github.io/aboutme">More details...</a>                           
 </div>
 
 <div>
