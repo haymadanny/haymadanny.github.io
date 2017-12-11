@@ -38,7 +38,7 @@ This program was designed, written and taught by <a href="http://www.geog.leeds.
 <img src="Girl.jpg" style="float:left; margin: 0px 10px 10px 0px" />
      <b>Name</b>: Haymawattie Danny <br>
      <b>Nationality</b>: Guyanese <br>
-     <b>Email</b>: <a href="haymadanny@yahoo.com"> <br>
+     <b>Email</b>: haymadanny@yahoo.com <br>
      <a href="https://haymadanny.github.io/aboutme">More Details...</a>                           
 </div>
 
