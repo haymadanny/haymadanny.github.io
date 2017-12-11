@@ -19,7 +19,7 @@ The ABM is a model that:
  <li>Gets agents to interact with the environment;</li>
  <li>Randomizes the order of agent actions;</li>
  <li>Displays the model as an animation;</li>
- <li>Is contained within a GUI;</li>
+ <li>Is contained within a Graphical User Interface (GUI);</li>
  <li>Is initialised with data from the web.</li>
 </ol>
   
