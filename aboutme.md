@@ -1,8 +1,8 @@
 <div class="pull-left" style="text-align: justify">
 I was born in Guyana, a beautiful country located on the extreme North of South America and is known as the Land of Many Waters.
 </div>
-<br>
-<div>
+
+<div class="pull-left" style="text-align: justify">
 In, September, 2008 I graduation from the University of Pinar Del Rio, Cuba with a BSc. in Telecommunication and Electronics Engineering. I am since been employed at the Ministry of Agriculture as a telecommunication engineer. My duties includes the installation, calibration and maintenance of the entire range of hydrometeorological electronic, electro-mechanical and telecommunication equipment such as the Automatic Weather Stations and Doppler Weather Radar. As part of my duties as Supervisor of the Telecommunications/Maintenance Section, I continuously teach staff under my supervision about the technologies used within the Hydrometeorological Department to ensure that our day to day mandates are met in an efficient manner.
 </div>
 <br>
