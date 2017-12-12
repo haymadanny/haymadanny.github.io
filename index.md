@@ -2,7 +2,7 @@
 title: Porfolio
 ---
 
-## [*Download Agent Base Model Codes*](https://github.com/haymadanny/)          
+## [*Download Agent Base Model*](https://github.com/haymadanny/)          
 
 **Agent Base Model (ABM)**
 <br>
