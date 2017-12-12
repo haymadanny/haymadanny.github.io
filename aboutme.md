@@ -1,5 +1,5 @@
 *About author...*
-<p><font colour="blue">
+<p><font colour="00FF00">
 About author...
  <font>
   </font>
