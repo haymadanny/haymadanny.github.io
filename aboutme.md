@@ -1,5 +1,9 @@
 *About author...*
-<p><font colour="blue"></p>
+<p><font colour="blue">
+About author...
+ <font>
+  </font>
+ </p>
 <div class="pull-left" style="text-align: justify">
 I was born in Guyana, a beautiful country located on the extreme North of South America. It is known as the Land of Many Waters for its many waterfalls and rivers.
 </div>
