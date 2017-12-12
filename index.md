@@ -47,6 +47,6 @@ ________________________________________________________________________________
 For further information:
 <br>
 <div style="float:left; width: 33%"><a href="http://www.geog.leeds.ac.uk/courses/computing/study/core-python/"><img src="py.png" height="55"></a></div>
-<div style="float:left; width: 25%"><a href="http://www.google.co.uk"><img src="google.jpg" height="35"></a></div>
+<div style="float:left; width: 27%"><a href="http://www.google.co.uk"><img src="google.jpg" height="35"></a></div>
 <div style="float:left; width:33%"><a href="http://youtube.com"><img src="youtube.png" height="25" /></a></div>
 </div>
