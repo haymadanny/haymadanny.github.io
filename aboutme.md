@@ -1,4 +1,5 @@
 *About author...*
+<p><font colour="blue"></p>
 <div class="pull-left" style="text-align: justify">
 I was born in Guyana, a beautiful country located on the extreme North of South America. It is known as the Land of Many Waters for its many waterfalls and rivers.
 </div>
@@ -16,4 +17,3 @@ During my tenure at the Ministry, I have assisted with the installation and conf
   </div>
   <br>
 <a href="https://haymadanny.github.io/">Back to Home</a>
-[**Back to home**](https://haymadanny.github.io/)
