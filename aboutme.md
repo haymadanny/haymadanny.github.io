@@ -9,7 +9,7 @@ In September 2008 I graduated from the University of Pinar Del Rio, Cuba with a 
 </div>
 <br>
 <div class="pull-left" style="text-align: justify">
-During my tenure at the Ministry, I have assisted with the installation and configuration of equipment for early warning systems under the Japanese International Cooperation Agency (JICA) and Caribbean Community Climate Change Centre (CCCCC) projects that are being implemented throughout Guyana and the Caribbean Region. This involves coordinating and sharing technical advice with professionals throughout the region to use data from this network of early warning systems as a tool for activation of the Disaster Risk Management plans for the stakeholder countries.
+During my tenure at the Ministry, I have assisted with the installation and configuration of equipment for early warning systems under the Japanese International Cooperation Agency (JICA) and Caribbean Community Climate Change Centre (CCCCC) projects that are being implemented throughout Guyana and the Caribbean Region. This involves coordinating and sharing technical advice with professionals throughout the region to use data from this network of early warning systems as a tool for activation of the Disaster Risk Management plans for the stakeholder countries. 
 </div>
 <br>
 <div class="pull-left" style="text-align: justify">
