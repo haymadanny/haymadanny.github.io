@@ -16,5 +16,5 @@ During my tenure at the Ministry, I have assisted with the installation and conf
  I am currently at the University of Leeds pursuing my MSc in Geographic Information Systems (GIS) so that I can improve my skills as a professional and be able to make a difference in what I do every day. 
   </div>
   <br>
-<a href="https://haymadanny.github.io/">Back to Home</a>
+<a href="https://haymadanny.github.io/"><B> Back to Home </B></a>
 
