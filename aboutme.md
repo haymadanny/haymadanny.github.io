@@ -11,7 +11,7 @@ In September 2008 I graduated from the University of Pinar Del Rio, Cuba with a 
 <div class="pull-left" style="text-align: justify">
 During my tenure at the Ministry, I have assisted with the installation and configuration of equipment for early warning systems under the Japanese International Cooperation Agency (JICA) and Caribbean Community Climate Change Centre (CCCCC) projects that are being implemented throughout Guyana and the Caribbean Region. This involves coordinating and sharing technical advice with professionals throughout the region to use data from this network of early warning systems as a tool for activation of the Disaster Risk Management plans for the stakeholder countries. 
 </div>
-
+<br>
 <div class="pull-left" style="text-align: justify">
  I am currently at the University of Leeds pursuing my MSc in Geographic Information Systems (GIS) so that I can improve my skills as a professional and be able to make a difference in what I do every day. 
 </div>
